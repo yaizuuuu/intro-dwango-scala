@@ -1,0 +1,5 @@
+package Future
+
+object CountDownLatch {
+
+}
