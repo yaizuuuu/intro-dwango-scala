@@ -1,5 +1,3 @@
-import javafx.scene.control.Cell
-
 object TypeParameter {
   def main(args: Array[String]): Unit = {
     val cell = new Cell[Int](1)
